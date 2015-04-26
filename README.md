@@ -1,4 +1,5 @@
-linux-vm
-========
+SWC Linux VM
+============
 
-Linux virtual machine used in Software Carpentry workshops
+Resources for making and using Linux VMs appropriate for use
+in SWC workshops.
