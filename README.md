@@ -1,5 +1,7 @@
 # SWC Linux VM
 
+**This repo is not actively maintained and was archived on 21 May 2025.  Please visit https://carpentries.org/ to learn more about The Carpentries and its lesson programs.**
+
 Resources for making and using Linux VMs appropriate for use
 in SWC workshops.
 
